@@ -4,8 +4,8 @@
 
 #ifndef TEST1INCLUDE_A_H
 #define TEST1INCLUDE_A_H
+#include "C.h"
 
-#include "B.h"
 
 namespace test1
 {
