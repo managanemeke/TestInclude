@@ -4,7 +4,6 @@
 
 #ifndef TEST2INCLUDE_A_H
 #define TEST2INCLUDE_A_H
-#include "C.h"
 
 namespace test2
 {

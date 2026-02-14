@@ -1,6 +1,6 @@
 ﻿
-#include "A.h"
 #include "C.h"
+#include "A.h"
 
 int main() {
     test2::A a;
